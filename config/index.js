@@ -42,7 +42,7 @@ const USER_CONFIG = {
     poetry: false,
 
     /** 星座运势 */
-    horoscope: false,
+    horoscope: true,
 
     /** 生日消息和节日消息 */
     birthdayMessage: true,
@@ -67,7 +67,7 @@ const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'o51DL50c-RihpD4DUJm9VkcjvzL4',
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: '7tFshAfXucpvYXlaUp89z3vcSa_UPO-lK_vVREhDh28',
+      useTemplateId: 'DAhHrg9ASWZSnOs_VppN8v4BglYdRVK3SaluOEqMWCw',
       // 所在省份
       province: '江苏',
       // 所在城市
